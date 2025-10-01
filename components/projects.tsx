@@ -12,22 +12,22 @@ export function Projects() {
 
       <div className="grid gap-6 md:grid-cols-3">
         <ProjectCard
-          title="Task Manager"
-          desc="A simple full-stack task manager with auth and MySQL backend."
-          href="https://github.com/JeJoys"
-          tech="HTML • CSS • JS • MySQL"
+          title="Machine Learning Developing"
+          desc="Machine Learning final project thats predict a heart desease using machine learning."
+          href="https://github.com/JeJoys/AoL-Machine-Learning"
+          tech="HTML • CSS • JS • Python"
         />
         <ProjectCard
-          title="Data Structures Playground"
-          desc="Interactive visualizations for classic data structures and algorithms."
-          href="https://github.com/JeJoys"
-          tech="C++ • Python"
+          title="UI/UX Developing"
+          desc="Designing and Developing front end for Human Computer Interaction final project"
+          href="https://github.com/JeJoys/AoL-HCI"
+          tech="Figma • HTML • CSS • JS"
         />
         <ProjectCard
-          title="Blog Theme"
-          desc="A customizable WordPress theme with accessible design."
-          href="https://github.com/JeJoys"
-          tech="WordPress • Figma"
+          title="Complext Problem Solving"
+          desc="Solved complex problems using C programming based on a given database."
+          href="https://github.com/JeJoys/AoL-AlgoPro"
+          tech="C • Excel"
         />
       </div>
 

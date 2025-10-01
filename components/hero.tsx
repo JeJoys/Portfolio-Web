@@ -70,13 +70,13 @@ export function Hero() {
               <span className="size-2 rounded-full bg-primary" /> Software Engineering
             </li>
             <li className="flex items-center gap-2">
-              <span className="size-2 rounded-full bg-primary" /> Full-stack Web
+              <span className="size-2 rounded-full bg-primary" /> Web Developer
             </li>
             <li className="flex items-center gap-2">
               <span className="size-2 rounded-full bg-primary" /> UI/UX Collaboration
             </li>
             <li className="flex items-center gap-2">
-              <span className="size-2 rounded-full bg-primary" /> Agile & Tools
+              <span className="size-2 rounded-full bg-primary" /> Project Manager
             </li>
           </ul>
         </div>
