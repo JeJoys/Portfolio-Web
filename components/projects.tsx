@@ -24,10 +24,10 @@ export function Projects() {
           tech="Figma • HTML • CSS • JS"
         />
         <ProjectCard
-          title="Complext Problem Solving"
-          desc="Solved complex problems using C programming based on a given database."
-          href="https://github.com/JeJoys/AoL-AlgoPro"
-          tech="C • Excel"
+          title="AI Developing"
+          desc="Developing an automatic massage when strange temperature captured in temperature camera"
+          href="https://github.com/JeJoys/Fire-Alarm-AI"
+          tech="Python"
         />
       </div>
 
